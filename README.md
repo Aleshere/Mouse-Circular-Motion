@@ -5,7 +5,7 @@
 # What I have learned building this  
 
 > Basics of Canvas drawing and setup with JS  
-> Event listeners mousemover and resize     
+> Event listeners mousemove and resize     
 > Class Particle to create multiple particles   
 > Draw function to draw on canvas  
 > Update function to create motion effect    
