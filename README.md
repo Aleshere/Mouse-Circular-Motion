@@ -10,7 +10,7 @@
 > Draw function to draw on canvas  
 > Update function to create motion effect    
 > Animate function via forEach    
-
+ 
 
 &nbsp;
 &nbsp; 
