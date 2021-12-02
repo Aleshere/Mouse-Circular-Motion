@@ -18,6 +18,6 @@
  
  
 ## About
-
+ 
 * A super interesting project built with vanilla JavaScript
 * Project status: working
